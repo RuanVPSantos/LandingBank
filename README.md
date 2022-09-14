@@ -1,2 +1,0 @@
-# LandingBank
- Landing Page desafio
